@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Sun",
+        "mass": 1.989e30,
+        "distance": 0,
+        "velocity": [0, 0, 0],
+        "radius": 5.0,
+        "color": "yellow",
+        "parent": null
+    },
+    {
+        "name": "Mercury",
+        "mass": 3.30e23,
+        "distance": 5.79e10,
+        "velocity": [0, 47360, 0],
+        "radius": 1.5,
+        "color": ["gray", 0.5],
+        "parent": "Sun"
+    },
+    {
+        "name": "Venus",
+        "mass": 4.87e24,
+        "distance": 1.082e11,
+        "velocity": [0, 35020, 0],
+        "radius": 1.8,
+        "color": "orange",
+        "parent": "Sun"
+    },
+    {
+        "name": "Earth",
+        "mass": 5.97e24,
+        "distance": 1.496e11, 
+        "velocity": [0, 29780, 0],
+        "radius": 2.0,
+        "color": "blue",
+        "parent": "Sun"
+    },
+    {
+        "name": "Moon",
+        "mass": 7.347e22,
+        "distance": 1.499844e11, 
+        "velocity": [0, 30802, 0],
+        "radius": 0.8,
+        "color": ["gray", 0.7],
+        "parent": "Earth"
+    },
+    {
+        "name": "Mars",
+        "mass": 6.42e23,
+        "distance": 2.279e11,
+        "velocity": [0, 24070, 0],
+        "radius": 1.7,
+        "color": "red",
+        "parent": "Sun"
+    },
+    {
+        "name": "Phobos",
+        "mass": 1.0659e16,
+        "distance": 2.27909e11,
+        "velocity": [0, 26208, 0],
+        "radius": 0.5,
+        "color": ["gray", 0.6],
+        "parent": "Mars"
+    },
+    {
+        "name": "Jupiter",
+        "mass": 1.898e27,
+        "distance": 7.785e11,
+        "velocity": [0, 13070, 0],
+        "radius": 4.0,
+        "color": "orange",
+        "parent": "Sun"
+    },
+    {
+        "name": "Io",
+        "mass": 8.93e22,
+        "distance": 7.7892e11,
+        "velocity": [0, 30404, 0],
+        "radius": 1.0,
+        "color": "yellow",
+        "parent": "Jupiter"
+    },
+    {
+        "name": "Europa",
+        "mass": 4.8e22,
+        "distance": 7.7917e11,
+        "velocity": [0, 26810, 0],
+        "radius": 0.9,
+        "color": "white",
+        "parent": "Jupiter"
+    },
+    {
+        "name": "Saturn",
+        "mass": 5.683e26,
+        "distance": 1.432e12,
+        "velocity": [0, 9690, 0],
+        "radius": 3.5,
+        "color": "yellow",
+        "parent": "Sun"
+    },
+    {
+        "name": "Titan",
+        "mass": 1.345e23,
+        "distance": 1.43322e12,
+        "velocity": [0, 15260, 0],
+        "radius": 1.2,
+        "color": "orange",
+        "parent": "Saturn"
+    },
+    {
+        "name": "Uranus",
+        "mass": 8.681e25,
+        "distance": 2.867e12,
+        "velocity": [0, 6810, 0],
+        "radius": 2.8,
+        "color": "cyan",
+        "parent": "Sun"
+    },
+    {
+        "name": "Titania",
+        "mass": 3.527e21,
+        "distance": 2.867435e12,
+        "velocity": [0, 10450, 0],
+        "radius": 0.8,
+        "color": ["gray", 0.7],
+        "parent": "Uranus"
+    },
+    {
+        "name": "Neptune",
+        "mass": 1.024e26,
+        "distance": 4.515e12,
+        "velocity": [0, 5430, 0],
+        "radius": 2.7,
+        "color": "blue",
+        "parent": "Sun"
+    },
+    {
+        "name": "Triton",
+        "mass": 2.14e22,
+        "distance": 4.515354e12,
+        "velocity": [0, 1040, 0], 
+        "radius": 0.9,
+        "color": "white",
+        "parent": "Neptune"
+    },
+    {
+        "name": "Pluto",
+        "mass": 1.309e22,
+        "distance": 5.906e12,
+        "velocity": [0, 4740, 0],
+        "radius": 1.2,
+        "color": ["gray", 0.5],
+        "parent": "Sun"
+    },
+    {
+        "name": "Charon",
+        "mass": 1.586e21,
+        "distance": 5.906019e12,
+        "velocity": [0, 4950, 0],
+        "radius": 0.6,
+        "color": ["gray", 0.4],
+        "parent": "Pluto"
+    }
+]
