@@ -15,9 +15,9 @@ python main.py
 
 ## Controls
 
-*Right-Click + Drag: Rotate the 3D camera.
-*Scroll Wheel: Zoom in and out.
-*Shift + Left-Click + Drag: Pan the camera.
-*Camera Focus Menu
-*Simulation Speed Slider
+* Right-Click + Drag: Rotate the 3D camera.
+* Scroll Wheel: Zoom in and out.
+* Shift + Left-Click + Drag: Pan the camera.
+* Camera Focus Menu
+* Simulation Speed Slider
 
